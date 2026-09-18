@@ -1,5 +1,8 @@
 ## Table of Contents
 
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -14,8 +17,65 @@
 
 
 
+## Blocks
+
+Hat Block:
+
+<img width="197" height="129" alt="image" src="https://github.com/user-attachments/assets/6d060e2f-2d4e-4b11-a9c6-8f14b0876cba" />
+
+the hat block does is that it starts a stack of other blocks and are shaped to attach other blocks below them.
+
+Stack / Command Block:
+
+<img width="488" height="136" alt="image" src="https://github.com/user-attachments/assets/32a502d6-11db-4f51-ba63-3d1049a1f8c8" />
+
+the stack / command block Performs main commands. They are shaped to attach above or below other stack blocks.
+
+C blocks:
+
+<img width="500" height="130" alt="image" src="https://github.com/user-attachments/assets/c017763e-bd74-47d2-84ef-329212efa0da" />
 
 
+
+
+
+## Concepts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Vocabulary
+
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 
 

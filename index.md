@@ -1,10 +1,10 @@
 # Welcome to My Portfolio Hello! My name is ZG
 ## Projects:
-- Project 1:  Draw a House, Work on your programming in VEXcode VR  
+- Project 1:  Draw a House
 
 
 
-- Project 2: Find your age,Open the Find Your Age Activity
+- Project 2: Find your age
 
 ## About Me
 

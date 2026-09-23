@@ -35,12 +35,81 @@ C blocks:
 
 <img width="500" height="130" alt="image" src="https://github.com/user-attachments/assets/c017763e-bd74-47d2-84ef-329212efa0da" />
 
+Loop the block(s) within them or check if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+
+Reporter / Oval Block:
+
+<img width="764" height="134" alt="image" src="https://github.com/user-attachments/assets/bbe9ad41-77c9-4f94-b004-bf39ba99b37f" />
+
+Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+
+Boolean / Hexagonal block:
+
+<img width="787" height="143" alt="image" src="https://github.com/user-attachments/assets/322484cc-9af9-4d88-8d62-456805a458c4" />
+
+Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+
+Repeat Block:
+
+<img width="305" height="180" alt="image" src="https://github.com/user-attachments/assets/f0c39b2a-0e9e-42b2-9023-5b46845f24cf" />
+
+it repeats blocks how many times you want it too.
+
+Wait Until Block:
+
+<img width="462" height="125" alt="image" src="https://github.com/user-attachments/assets/ddca7fc9-ec6c-407e-9cfb-538cec7840f5" />
+
+it tellls the block to wait untill whats ever inside the block.
+
+If Then Block:
+
+<img width="461" height="190" alt="image" src="https://github.com/user-attachments/assets/4e96e441-38ae-46d6-a4e8-8f1abb86fa7d" />
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ## Concepts
 
+Sequence:	
+
+folwoing the order of something to get it right 
+
+
+Parameters:
+
+
+Loops / Iteration:
+
+
+Sensors:
+
+
+Booleans & Conditions:
+
+
+Sense → Think → Act:
+
+
+Comparisons:
+
+
+Coordinates:
+
+
+Conditionals:
+
+
+Patterns:
 
 
 
@@ -59,6 +128,30 @@ C blocks:
 
 
 ## Vocabulary
+
+
+
+<details>
+<summary><strong>     </strong></summary>
+
+**Definition:**  
+
+
+**In My Own Words:**  
+
+
+**Example:**  
+
+
+
+</details>
+
+
+
+
+
+
+
 
 <details>
 <summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
@@ -80,11 +173,37 @@ Not Pressed = FALSE
 
 
 
+<details>
+<summary><strong>programming language</strong></summary>
+
+**Definition:**  
+a set of rules in which symbols represent actions.
+
+**In My Own Words:**  
+programming language is to comouitcat with the computer and robot.
+
+**Example:**  
+<img width="306" height="187" alt="image" src="https://github.com/user-attachments/assets/68faf893-b503-4f9e-a238-1ea00db9a08f" />
+
+
+</details>
 
 
 
+<details>
+<summary><strong>     </strong></summary>
+
+**Definition:**  
 
 
+**In My Own Words:**  
+
+
+**Example:**  
+
+
+
+</details>
 
 
 

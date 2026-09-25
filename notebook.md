@@ -17,6 +17,7 @@
 
 
 
+
 ## Blocks
 
 Hat Block:
@@ -64,8 +65,6 @@ it tellls the block to wait untill whats ever inside the block.
 If Then Block:
 
 <img width="461" height="190" alt="image" src="https://github.com/user-attachments/assets/4e96e441-38ae-46d6-a4e8-8f1abb86fa7d" />
-
-
 
 
 

@@ -81,46 +81,35 @@ If Then Block:
 
 Sequence:	
 
-folwoing the order of something to get it right 
+folwoing the order of something to get it right. 
 
 
 Parameters:
+controls how something is done or how it works. 
 
+Loops / Iteration: 
+a programing tool that is used to run a specific block of code that goes over and over again. 
 
-Loops / Iteration:
+Sensors: 
+a device that sees physical conditions.
 
-
-Sensors:
-
-
-Booleans & Conditions:
-
+Booleans & Conditions: 
+a programming languages used to make decisions.
 
 Sense → Think → Act:
 
 
-Comparisons:
+Comparisons: 
+looking at two or more things and putting all there simlarites together.
 
+Coordinates: 
+a set of numbers that describe the a  location.
 
-Coordinates:
+Conditionals: 
+a statement that tells a result depending on a specific thing.
 
-
-Conditionals:
-
-
-Patterns:
-
-
-
-
-
-
-
-
-
-
-
-
+Patterns: 
+something that is repeating but is in a design i think and goes into a serten order or a sertan way.
 
 
 
@@ -182,7 +171,7 @@ a set of rules in which symbols represent actions.
 programming language is to comouitcat with the computer and robot.
 
 **Example:**  
-<img width="306" height="187" alt="image" src="https://github.com/user-attachments/assets/68faf893-b503-4f9e-a238-1ea00db9a08f" />
+<img width="306" height="187" alt="image" src="https://github.com/user-attachments/assets/68faf893-b503-4f9e-a238-1ea00db9a08f"/>
 
 
 </details>
@@ -190,7 +179,7 @@ programming language is to comouitcat with the computer and robot.
 
 
 <details>
-<summary><strong>     </strong></summary>
+<summary><strong>      </strong></summary>
 
 **Definition:**  
 

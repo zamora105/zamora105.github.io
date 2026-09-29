@@ -1,7 +1,6 @@
 # Welcome to My Portfolio Hello! My name is ZG
 ## Projects:
-- Project 1:  Draw a House
-
+-[VEX VR](vex-vr.md) : (Write a description for your VEX VR work and the project page)
 
 
 - Project 2: Find your age

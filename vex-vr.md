@@ -62,20 +62,21 @@ something that i learned was that i moved the robot to make it go to the numbers
 
 
 
-## Challenge: [Name]
+## Challenge: 
+Disk Color Maze
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+the goal is to try to get each disc in each different colored boxes
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="1016" height="541" alt="image" src="https://github.com/user-attachments/assets/9695d73a-5423-421d-ae56-7be1475c6bdf" />
 
 ### What I Learned
 
-
-
+ how to make a new block and how to use other blocks that I had never used before.
+ 
 ----------------------------------------------------------------------
 
 

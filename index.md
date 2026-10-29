@@ -1,7 +1,8 @@
 # Welcome to My Portfolio Hello! My name is ZG
 ## Projects:
--[VEX VR](vex-vr.md) : (Write a description for your VEX VR work and the project page)
+-[VEX VR](vex-vr.md) 
 
+-[Engineering Notebook](engineering-notebook.md)
 
 - Project 2: Find your age
 
